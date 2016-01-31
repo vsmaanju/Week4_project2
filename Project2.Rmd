@@ -135,10 +135,17 @@ plot2<- g + geom_bar(colour="red", stat="identity") + theme(axis.text.x = elemen
 ```{r}
 print(plot1)
 ```
+Please click the link for figure/plot.
 
+[plot1][id1]
+[id1]:https://github.com/vsmaanju/Week4_project2/blob/master/Plots/PLot1.png
 ```{r}
 print(plot2)
 ```
+Please click the link for figure/plot.
+[plot1][id2]
+
+[id2]:https://github.com/vsmaanju/Week4_project2/blob/master/Plots/Plot2.jpg
 
 Results
 --------------
